@@ -1,6 +1,11 @@
 # news-JS
 
-Run application:  
-- Copy and rename `.env.example` to `.env` and set variables with your data  
-- Install dependencies by running command `npm install` in your terminal
-- Run command in your terminal `npm start`  
+Описание приложения
+Это веб-приложение News Portal, которое использует API для отображения списка новостных источников и новостей. Пользователь может выбирать источники и просматривать соответствующие новости.
+
+Технологии, используемые в приложении "News Portal"
+
+1. HTML
+2. CSS
+3. TypeScript
+4. Webpack (для сборки проекта)
